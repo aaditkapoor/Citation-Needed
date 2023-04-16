@@ -5,7 +5,7 @@ Citation Needed: Summarize Evidence Strength for Medical Claims
 Fact check any medical/health claim/fact using real time pubmed corpus
 
 # How and why
-Built and productionzed at Chroma/Retool Hackathon (https://twitter.com/trychroma/status/1643644855485345792)
+Built and productionzed at Chroma/Retool Hackathon (https://twitter.com/trychroma/status/1643644855485345792) (4/8 - 4/9)
 - Hallucinations are a major challenge for ChatGPT 
 - We present Citation Needed! A ChatGPT plugin to help prioritize supporting evidence for medical/health queries
 
